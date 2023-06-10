@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm ALLOUCHE SALAHEDDINE</h1>
-<h3 align="center">Aspiring Aspiring Master Student in Distributed Systems & Artificial Intelligence from Morocco</h3>
+<h3 align="center">Aspiring Master Student in Distributed Systems & Artificial Intelligence from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdallouche&label=Profile%20views&color=0e75b6&style=flat" alt="sdallouche" /> </p>
 
