@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdallouche&label=Profile%20views&color=0e75b6&style=flat" alt="sdallouche" /> </p>
 
-📫 How to reach me **sdalami123@gmail.com**
+📫 How to reach me **salaheddine.allouche99@gmail.com**
 <h3 align="left">Or Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salaheddine-allouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salaheddine-allouche" height="20" width="30" /></a>
